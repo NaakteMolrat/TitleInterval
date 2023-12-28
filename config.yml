@@ -1,0 +1,6 @@
+interval: 300
+fadein: 20
+showtime: 40
+fadeout: 20
+text: Your title
+subtext: Your subtitle
